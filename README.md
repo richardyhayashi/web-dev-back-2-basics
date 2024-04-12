@@ -11,3 +11,9 @@
 `$ yarn add -D webpack webpack-cli webpack-dev-server`
 
 `$ yarn add -D mini-css-extract-plugin`
+
+## Create a React App WITHOUT Create React App
+
+`$ npm init -y`
+
+`$ yarn add react react-dom`
