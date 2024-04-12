@@ -19,3 +19,5 @@
 `$ yarn add react react-dom`
 
 `$ yarn add -D webpack webpack-cli webpack-dev-server`
+
+`$ yarn add -D @babel/core @babel/preset-react @babel/preset-env babel-loader html-webpack-plugin`
