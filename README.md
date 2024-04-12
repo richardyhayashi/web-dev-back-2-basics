@@ -17,3 +17,5 @@
 `$ npm init -y`
 
 `$ yarn add react react-dom`
+
+`$ yarn add -D webpack webpack-cli webpack-dev-server`
